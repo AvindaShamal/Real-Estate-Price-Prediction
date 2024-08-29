@@ -35,7 +35,7 @@ The model is trained on the Bangalore home prices dataset, which includes attrib
 - Location
 - Price
 
-The dataset can be obtained from Kaggle: [Bangalore Home Prices]([https://www.kaggle.com/path-to-dataset](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data/data))
+The dataset can be obtained from Kaggle: [Bangalore Home Prices](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data/data)
 
 
 ## Model
