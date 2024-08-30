@@ -7,6 +7,7 @@ This project is a complete walkthrough of building a real estate price predictio
 - [Dataset](#dataset)
 - [Model](#model)
 - [Requirements](#requirements)
+- [Usage](#usage)
 - [License](#license)
 
 ## Introduction
@@ -58,6 +59,13 @@ The prediction model uses Linear Regression. The process includes:
 - Flask
 - joblib
 - HTML/CSS/JavaScript
+
+## Usage
+- Open the Jupyter Notebook in Weather Prediction folder.
+- Install all the requirements mentioned in under the requarements title.
+- Train the model by running the Jupyter Notebook in the model folder.
+- Start the Flask server.
+- Open index.html in your browser to use the web interface.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
