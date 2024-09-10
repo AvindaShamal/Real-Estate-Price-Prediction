@@ -47,7 +47,6 @@ The prediction model uses Linear Regression. The process includes:
 - Building the model using Sklearn.
 - Hyperparameter tuning with GridSearchCV.
 - Model evaluation using k-fold cross-validation.
-- Requirements
 
 ## Requirements:
 
