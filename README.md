@@ -60,7 +60,7 @@ The prediction model uses Linear Regression. The process includes:
 - HTML/CSS/JavaScript
 
 ## Usage
-- Open the Jupyter Notebook in Weather Prediction folder.
+- Open the Jupyter Notebook in Price Prediction folder.
 - Install all the requirements mentioned in under the requarements title.
 - Train the model by running the Jupyter Notebook in the model folder.
 - Start the Flask server.
